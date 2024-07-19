@@ -15,7 +15,7 @@ This project provides a C++ implementation of the First Come First Serve (FCFS) 
 ## How to Use 🚀
 
 1. ⚙️ **Compile the `FCFS.cpp` file** using a C++ compiler:
-2. ▶️ **Run the compiled executable**:
+2. ▶️ **Run the compiled executable** or direct run the [FCFS.exe](FCFS.exe):
 3. ✍️ **Enter the number of processes** and input arrival time and burst time for each process as prompted.
 4. 👀 **View the calculated metrics** and average waiting time displayed in the table.
 
